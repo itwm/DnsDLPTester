@@ -2,6 +2,6 @@
 
 # Test wysylania plików przy pomocy Surowych gniazd (raw sockets)
 
-SockServer.java - Wygenerowany w ChatGPT służy do odbioru pliku
+SockServer.java - Serwer do odbioru plikow przesyłanych przy pomocy raw sockets
 <br>
-SockClient.java - Wygenerowany w ChatGPT służy do wysłania pliku
+SockClient.java - Klient do wysyłania plikow przesyłanych przy pomocy raw sockets
