@@ -1,7 +1,3 @@
-/**
- *
- *  @author itwm & ChatGPT
- */
 
 
 import java.io.*;
