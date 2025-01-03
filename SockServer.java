@@ -1,7 +1,4 @@
-/**
- *
- * @author itwm & ChatGPT
- */
+
 
 import java.io.*;
 import java.net.ServerSocket;
